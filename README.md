@@ -1,0 +1,4 @@
+- 👋 Hi everyone, I’m @XhuliaBuzi
+- 👀 I am Junior Software Developer 
+- 🌱 I'm currently learning about Back End technologies.
+- 📫 LinkedIn : https://www.linkedin.com/in/xhulia-buzi-4bb487176/
